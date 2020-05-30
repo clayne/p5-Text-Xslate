@@ -1,5 +1,5 @@
 Text-Xslate-*
-.*
+.xslate_cache/
 !.appveyor.yml
 !.gitignore
 !.shipit
